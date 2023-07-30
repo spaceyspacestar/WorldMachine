@@ -62,7 +62,8 @@
 
 /* --== Change font ==-- */
 html, body {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Terminus (TTF)', monospace;
+  src: url("../src/TerminusTTF-4.49.3.ttf") format('truetype');
 }
 
 /* --== Add CRT effect ==-- */
